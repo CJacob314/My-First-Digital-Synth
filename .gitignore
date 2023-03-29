@@ -1,0 +1,6 @@
+# .vscode directory now.
+.vscode
+
+# Executables
+synth
+debug-synth
